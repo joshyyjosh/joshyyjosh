@@ -6,12 +6,7 @@ I'm a passionate software engineer at the University of Michigan with a love for
 
 - 🔭 I’m currently working on Maize Map
 - 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on [Projects or Open Source Contributions]
-- 🤔 I’m looking for help with [Any Challenges or Topics You Need Help With]
-- 💬 Ask me about [Your Areas of Expertise or Interests]
-- 📫 How to reach me: [Your Contact Information]
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [A Fun Fact About You]
+
 
 ## 🛠️ Technologies & Tools
 
