@@ -4,8 +4,8 @@ I'm a passionate software engineer at the University of Michigan with a love for
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on [Your Project Name]
-- 🌱 I’m currently learning SQL
+- 🔭 I’m currently working on Maize Map
+- 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on [Projects or Open Source Contributions]
 - 🤔 I’m looking for help with [Any Challenges or Topics You Need Help With]
 - 💬 Ask me about [Your Areas of Expertise or Interests]
