@@ -35,8 +35,6 @@ I'm a passionate software engineer at the University of Michigan with a love for
 ## 🖥️ My Projects
 
 - [Maize Map](https://github.com/joshyyjosh/project-name]) - Find the next perfect study spot in UMICH. 
-- [Project Name](https://github.com/joshyyjosh/project-name) - A brief description of the project.
-- [Project Name](https://github.com/joshyyjosh/project-name) - A brief description of the project.
 
 <!-- You can add more sections if needed, such as 'Achievements', 'Certifications', etc. -->
 
