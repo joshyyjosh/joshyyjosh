@@ -30,19 +30,11 @@ I'm a passionate software engineer at the University of Michigan with a love for
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/joshua-young-023469329/)
 [![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail)](mailto:joshuay069@gmail.com)
 
-## 📚 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Post Title](https://your-blog-link)
-- [Post Title](https://your-blog-link)
-- [Post Title](https://your-blog-link)
-<!-- BLOG-POST-LIST:END -->
-
 <!-- You can create a workflow to automatically update this section based on your latest blog posts. -->
 
 ## 🖥️ My Projects
 
-- [Project Name](https://github.com/joshyyjosh/project-name) - A brief description of the project.
+- [Project Name]([https://github.com/joshyyjosh/project-name](https://github.com/joshyyjosh/Maize-Map)) - Find the next perfect study spot in UMICH. 
 - [Project Name](https://github.com/joshyyjosh/project-name) - A brief description of the project.
 - [Project Name](https://github.com/joshyyjosh/project-name) - A brief description of the project.
 
