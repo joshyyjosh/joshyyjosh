@@ -35,7 +35,7 @@ I'm a passionate software engineer at the University of Michigan with a love for
 ## 🖥️ My Projects
 
 - [Maize Map](https://github.com/joshyyjosh/project-name]) - Find the next perfect study spot in UMICH.
-- [Face Recognition with Attendance](https://github.com/joshyyjosh/face_attendance) - • Built a real-time facial recognition attendance system in Python using OpenCV and Dlib; captured live webcam feed and logged attendance to CSV based on identity matches 
+- [Face Recognition with Attendance](https://github.com/joshyyjosh/face_attendance) - Built a real-time facial recognition attendance system in Python using OpenCV and Dlib; captured live webcam feed and logged attendance to CSV based on identity matches 
 
 <!-- You can add more sections if needed, such as 'Achievements', 'Certifications', etc. -->
 
