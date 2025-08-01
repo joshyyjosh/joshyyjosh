@@ -1,6 +1,6 @@
 # I'm Josh! 👋
 
-I'm a passionate software engineer at the University of Michigan with a love for coding, learning, and sharing knowledge. Here's a bit about me:
+I'm a software engineer at the University of Michigan with a love for coding, learning, and sharing knowledge. Here's a bit about me:
 
 ## 🚀 About Me
 
