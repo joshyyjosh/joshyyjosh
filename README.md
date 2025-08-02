@@ -5,7 +5,7 @@ I'm a software engineer at the University of Michigan with a love for coding, le
 ## 🚀 About Me
 
 - 🔭 I’m currently working on Maize Map
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning typescript
 
 
 ## 🛠️ Technologies & Tools
