@@ -36,7 +36,8 @@ I'm a software engineer at the University of Michigan with a love for coding, le
 <!-- You can create a workflow to automatically update this section based on your latest blog posts. -->
 
 ## 🖥️ My Projects
-
+ 
+- [AI Music Generation](https://music-generation-frontend.vercel.app/) - an AI-powered music generation platform that transforms ideas, lyrics, or moods into original, studio-quality audio tracks. Whether you're a songwriter, creator, or just exploring sounds, this app helps you turn inspiration into immersive, customizable music — no experience required.
 - [Maize Map](https://github.com/joshyyjosh/project-name]) - Find the next perfect study spot in UMICH.
 - [Face Recognition with Attendance](https://github.com/joshyyjosh/face_attendance) - Built a real-time facial recognition attendance system in Python using OpenCV and Dlib; captured live webcam feed and logged attendance to CSV based on identity matches 
 
