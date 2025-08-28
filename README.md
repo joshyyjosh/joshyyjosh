@@ -4,7 +4,7 @@ I'm a software engineer studying CS at the University of Michigan with a love fo
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on Maize Map
+- 🔭 I’m currently working on Music Generator
 - 🌱 I’m currently learning typescript
 
 
